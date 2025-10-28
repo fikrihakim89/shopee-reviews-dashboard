@@ -4,3 +4,6 @@ plotly
 matplotlib
 wordcloud
 nltk
+transformers
+torch
+scipy
