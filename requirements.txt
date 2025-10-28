@@ -7,3 +7,7 @@ nltk
 transformers
 torch
 scipy
+bertopic
+sentence-transformers
+hdbscan
+umap-learn
